@@ -1,0 +1,18 @@
+{
+  "name": "vibes",
+  "version": "1.0.0",
+  "description": "A discord music bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord-player": "^3.3.2",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "opusscript": "^0.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "advitrocks9",
+  "license": "ISC"
+}
